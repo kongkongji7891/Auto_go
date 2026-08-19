@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\73343\Documents\mindplus-py\user\2026-08-17-18-04-51\main.py", line 361, in run
+    self.dialog.information("提示","棋局结束或出现提示，已自动关闭监听")
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: theard_dialog.information() missing 1 required positional argument: 'text'
+请前往 Github 提交以上到issues
+项目地址: https://github.com/kongkongji7891/Auto_go/blob/main/README.md
